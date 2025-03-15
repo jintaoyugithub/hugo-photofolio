@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/hugo-photofolio/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/hugo-photofolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-photofolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-photofolio/</guid>
+      <description>&lt;p&gt;This website showcases my photography work from over a year of learning. If you have any thoughts or suggestions, feel free to contact me at &lt;u&gt;&lt;a href=&#34;mailto:jintaoyuemail@gmail.com&#34;&gt;jintaoyuemail@gmail.com&lt;/a&gt;&lt;/u&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Please visit this &lt;u&gt;&lt;a href=&#34;https://jintaoyugithub.github.io/hugo-blog/&#34;&gt;link&lt;/a&gt;&lt;/u&gt; for my blog and projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-photofolio/france/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-photofolio/france/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-photofolio/germany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-photofolio/germany/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-photofolio/iceland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-photofolio/iceland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-photofolio/shanghai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-photofolio/shanghai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-photofolio/sweden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-photofolio/sweden/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
